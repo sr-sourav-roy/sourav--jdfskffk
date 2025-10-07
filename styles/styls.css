@@ -478,8 +478,29 @@ input[type="sub"]:hover{
     margin-top: 24px;
     margin-bottom: 80px;
 }
+/* footer_ section */
+footer{
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 20px 50px 0px rgb(221, 218, 218);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+/* .bangla_2{
+    display: flex;
+    flex-direction: column;
+    align-items: center; */
 
-
+.bangladesh{
+    margin-top: 50px;
+    margin-bottom: 32px;
+    color: rgba(14, 14, 14, 1);
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+.icone{
+    text-align: center;
+}
 
 
 
